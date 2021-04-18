@@ -1,7 +1,7 @@
 # country-data
 
-#build docker image(  )
-docker build -t <name> .(  )(  )
+#build docker image  
+docker build -t <name> .    
 
 #example:(  )
 docker build -t main .(  )(  )
