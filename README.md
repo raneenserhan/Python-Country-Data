@@ -1,4 +1,4 @@
-Instructions for running the DOCKERfile
+#Instructions for running the DOCKERfile  
 #build docker image  
 docker build -t <name> .    
 
