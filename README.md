@@ -1,4 +1,4 @@
-#Instructions for running the DOCKERfile  
+**Instructions for running the DOCKERfile**    
 #build docker image  
 docker build -t <name> .    
 
@@ -18,7 +18,7 @@ http://127.0.0.1:5000/countryname/<country name>
 http://127.0.0.1:5000/countryname/aruba    
 
 
-Instructions for running the docker-compose  
+**Instructions for running the docker-compose**  
 docker-compose up
 
 
