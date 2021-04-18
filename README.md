@@ -29,8 +29,6 @@ http://localhost:8080/countryname/<country_name>
 http://127.0.0.1:8080/countryname/<country_name>    
 
 #example  
-http://127.0.0.1:8080/countryname/<aruba>    
-![image](https://user-images.githubusercontent.com/82150368/115160313-4bb07880-a0a0-11eb-9820-d8347a75aaca.png)
-
-  
- ** Enjoy running the app!**
+http://127.0.0.1:8080/countryname/<aruba>        
+![image](https://user-images.githubusercontent.com/82150368/115160313-4bb07880-a0a0-11eb-9820-d8347a75aaca.png)  
+ **Enjoy running the app!**
