@@ -1,4 +1,6 @@
-**Instructions for running the DOCKERfile**    
+**should add country.html file into templates folder in the project**
+
+**Instructions for running the app via DOCKERfile**    
 #build docker image  
 docker build -t <name> .    
 
@@ -20,7 +22,7 @@ http://127.0.0.1:5000/countryname/<country_name>
 http://127.0.0.1:5000/countryname/aruba    
 
 
-**Instructions for running the docker-compose**   
+**Instructions for running the app via docker-compose**   
 #start up the app  
 docker-compose up    
 
